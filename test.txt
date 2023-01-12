@@ -7,3 +7,7 @@ git clone:-
           To clone remote repository to system(creating local repository)..
           
           Syntax: git clone ssh/https url
+
+Note:-While using below commands plz open git bash in the local repository only.
+git pull:-
+          get updates from remote repository to local repository.
