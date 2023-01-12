@@ -11,3 +11,7 @@ git clone:-
 Note:-While using below commands plz open git bash in the local repository only.
 git pull:-
           get updates from remote repository to local repository.
+
+
+git status:
+          to check the status of local repository.
