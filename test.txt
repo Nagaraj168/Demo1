@@ -15,3 +15,12 @@ git pull:-
 
 git status:
           to check the status of local repository.
+          
+Note: if u wanna add file or any updation to remote repository from local repository below three commands are compulsory.
+
+git add file_name or git add -A
+          this command is used add file to the path.
+git commit -m"message"
+          this command is used to save the file in the path.
+git push 
+          this command is used to push the files into remote repository which are  present in the path.
