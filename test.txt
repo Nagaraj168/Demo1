@@ -1,6 +1,7 @@
 git hub: open source version control tool.
 
-git clone:
+git clone https/ssh :  
+          create local repository with the help of https/ssh url of remote repository.
 
 git clone:- 
           To clone remote repository to system(creating local repository)..
