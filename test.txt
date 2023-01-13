@@ -24,3 +24,9 @@ git commit -m"message"
           this command is used to save the file in the path.
 git push 
           this command is used to push the files into remote repository which are  present in the path.
+
+
+git branch <branchname>
+          ->creates new branch
+git checkout branchname
+          ->switch the branch
